@@ -1,2 +1,2 @@
 # init.lua
-My Nvim Config
+My Nvim Config, look at master branch.
